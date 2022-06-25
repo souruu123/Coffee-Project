@@ -1,0 +1,443 @@
+.a0{
+    display: flex;
+    /* background-color: #756161; */
+    background-color: rgb(0, 0, 0);
+    height: 66px;
+    width: 100%;
+    
+}
+#a1{
+    /* background-color:#756161; */
+    background-color: rgb(0, 0, 0);
+    height: 66px;
+    width: 33.33%;
+}
+#a2{
+  /* background-color:  #756161; */
+  background-color: rgb(0, 0, 0);
+    height: 66px;
+    width: 33.33%; 
+}
+
+#a3{
+    /* background-color:   #756161; */
+    background-color: rgb(0, 0, 0);
+    height: 54px;
+    width: 33.33%;
+    margin-top: 12px;
+}
+#p1{
+    margin-left: 24%;
+    height:65px;
+    width: 86px;
+    margin-top: 1px;
+  
+}
+h1{
+    color:rgb(255, 250, 250);
+    margin-left:-292px;
+    margin-top: -26px;
+   
+}
+pre{
+    font-family: "Sofia", sans-serif;
+    font-size: 40px;
+    text-shadow: 3px 3px 3px #ababab;
+
+}
+a{
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+    
+}
+strong{
+    margin-left: 20px;
+ 
+    /* margin-top: 50px */
+    
+}
+.m1{
+    height: 25px;
+    width: 100%;
+    /* background-color:  #756161; */
+    background-color: transparent;
+    margin-top: -11px;
+    position:sticky;
+    background-color:transparent;
+    top: 20px;
+    bottom: 10px;
+
+ 
+   
+}
+
+#v1 {
+   margin-left:645px;
+   font-family: "Sofia", sans-serif;
+   color: rgb(255, 255, 255);
+   margin-left: 18px;
+   font-weight: bolder;
+   font-size: 15px;
+   text-align: center;
+   
+  
+
+}
+
+
+
+
+/* **************************** */
+.k10{
+    display: flex;
+    
+    /* background-color:   grey; */
+    background-color: transparent;
+    width: 100%;
+    height: 336px;
+    margin-top: 20px;
+}
+
+#l1{
+    /* background-color:   grey; */
+    background-color: transparent;
+    height: 336px;
+    width: 50%;
+    
+    /* margin-right: 10px; */
+}
+#l2{
+
+    background-color:   grey; 
+    background-color: transparent;
+    height: 336px;
+    width: 50%;
+    margin-left: -40px;
+    
+} 
+
+ body{
+    background-image: url(./images/Hot-coffee-cup-wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    image-resolution: 100%;
+  
+
+ }
+
+#videodiv{
+    margin-left: 121px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    
+   
+}
+
+
+#q1{
+    text-align: left;
+    margin-top: 100px;
+    color: rgb(255, 255, 255);
+    /* font-family: "Sofia", sans-serif; */
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 20px;
+    
+}
+.parent{
+    height: 600px;
+    width: 100%;
+    background-color: transparent;
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-evenly;
+}
+#c0{
+    height: 100px;
+    width: 50px;
+    background-color: transparent;
+}
+#c1{
+    height: 600px;
+    width: 20%;
+    /* background-color: aquamarine; */
+    background-color: transparent;
+    
+}
+
+#c2{
+    height: 600px;
+    width: 20%;
+    /* background-color: rgb(62, 9, 105); */
+    background-color: transparent;
+   
+}
+#c3{
+    height: 600px;
+    width: 20%;
+    /* background-color: rgb(63, 136, 34); */
+    background-color: transparent;
+    
+}
+#c4{
+    height: 600px;
+    width: 20%;
+    /* background-color: rgb(209, 116, 40); */
+    background-color: transparent;
+}
+.c5{
+    height: 150px;
+    width: 65px;
+    background-color:grey;
+    margin-top: 100px;
+    margin-left: 10px;
+    position: sticky;
+    
+    top: 10px;
+    
+    /* border: black solid; */
+    border-radius: 15px;
+    
+}
+#pp1{
+    height: 35px;
+    width: 100%;
+  background-color: transparent;
+}
+#k20{
+    color: rgb(255, 255, 255);
+    margin-left: 500px;
+    /* font-family: "Sofia", sans-serif; */
+
+}
+#i1{
+    padding-top: 10px;
+}
+#i2{
+    padding-top: 5px;
+}
+#mm1{
+    margin-left: 20%;
+    color: rgb(255, 255, 255);
+}
+#aa1{
+    height: 250px;
+    width: 100%;
+}
+#aa2{
+    height: 250px;
+    width: 100%;
+}
+#aa3{
+    height: 250px;
+    width: 100%;
+}
+#aa4{
+    height: 250px;
+    width: 100%;
+}
+#lm{
+    color: white;
+}
+.parent2{
+    height: 482px;
+    width: 100%;
+    /* background-color: #756161; */
+    background-color: transparent;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+#ch1{
+    background-color: #0a0808;
+    height: 482px;
+    width: 21%;
+    margin-left: 43px;
+}
+#ch2{
+    /* background-color: #fa5353; */
+    background-color: transparent;
+    height: 482px;
+    width: 21%;
+}
+#ch3{
+    /* background-color: #62c24a; */
+    background-color: transparent;
+    height: 482px;
+    width: 21%;
+}
+#ch4{
+    /* background-color: #3f6bbd; */
+    background-color: transparent;
+    height: 482px;
+    width: 21%;
+}
+#c11{
+    height: 100px;
+    width: 50px;
+    background-color: transparent;
+}
+#c12{
+    height: 100px;
+    width: 65px;
+    background-color: transparent;
+}
+#o11{
+    height: 230px;
+    width: 100%;
+}
+#mp{
+    font-weight: bold;
+    color: white;
+    margin-left: 685px;
+}
+.y1{
+    background-color: rgb(163, 163, 162);
+    width: 100%;
+    height: 200px;
+    display: flex;
+}
+#f1{
+    background-color: bisque;
+    height: 200px;
+    width: 50%;
+}
+#f2{
+    background-color: bisque;
+    height: 200px;
+    width: 50%;
+}
+#hh1{
+    color: black;
+    margin-left: 200px;
+}
+#h12{
+    margin-left: -466px;
+}
+.parent3{
+    display: flex;
+    height: 50px;
+    width: 100%;
+    background-color: bisque;
+}
+#child3{
+    margin-top: 10px;
+    margin-left: 83%;
+}
+#chd4{
+    margin-top: 10px;
+    margin-left: -1%;
+}
+#chd5{
+    margin-top: 10px;
+    margin-left: -1%;
+}
+#chd6{
+    margin-top: 10px;
+    margin-left: -1%;
+  
+}
+#b1{
+    color: green;
+}
+#b2{
+    color:crimson;
+}
+#b3{
+    color: rgb(41, 148, 236);
+}
+
+pre:hover{
+    color: rgb(105, 28, 28);
+}
+a:hover{
+    color: rgb(26, 2, 241);
+    font-weight: bold;
+    font-size: 10px;
+}
+#v1:hover{
+    color: rgb(146, 148, 39);
+}
+#mm1:hover{
+    color:  rgba(202, 127, 28, 0.938);
+    font-family: "Sofia", sans-serif;
+}
+#mp:hover{
+    color: rgba(202, 127, 28, 0.938);
+     font-family: "Sofia", sans-serif;
+}
+
+.ss1{
+    height: 178px;
+    width: 100%;
+    /* background-color: rgb(111, 152, 175); */
+    background-color: transparent;
+}
+
+.s31{
+    display: flex;
+    /* background-color: rgb(111, 152, 175); */
+    background-color: transparent;
+    height: 178px;
+    width: 100%;
+
+}
+#ss1{
+    height: 178px;
+    width: 33.3%;
+    /* background-color: rgb(111, 152, 175); */
+    background-color: transparent;
+}
+.ss2{
+    height: 148px;
+    width: 33.3%;
+    /* background-color: rgb(111, 152, 175); */
+    background-color: transparent;
+    margin-top: 30px;
+    margin-left: 171px;
+   
+}
+#ss3{
+    height: 178px;
+    width: 33.3%;
+    /* background-color: rgb(111, 152, 175); */
+    background-color: transparent;
+}
+#cc1{
+    color: white;
+  margin-left: 615px;
+}
+
+#cc1:hover{
+    color:  rgba(202, 127, 28, 0.938);
+    font-family: "Sofia", sans-serif;
+}
+label{
+    color: white;
+}
+#l2{
+    background-image: url(./images/coffee\ bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+button{
+
+    margin-left: 95px;
+    background-color: #0a0808;
+    color: white;
+    
+}
+button:hover {
+    background-color: white;
+    color: black;
+}
+.a34{
+    display: flex;
+    background-image: url(./images/girl\ coffe.webp);
+    height: 1000px;
+    width: 100%px;
+    margin-left: 120px;
+    margin-right: 95px;
+}
+
+
